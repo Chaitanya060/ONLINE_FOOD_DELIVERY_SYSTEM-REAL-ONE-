@@ -1,0 +1,5 @@
+package com.jfsd.project.model;
+
+public class Customer {
+
+}

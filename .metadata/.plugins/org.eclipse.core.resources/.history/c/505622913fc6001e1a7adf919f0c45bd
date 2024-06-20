@@ -1,0 +1,9 @@
+package com.jfsd.project.model;
+
+import jakarta.persistence.Entity;
+
+@Entity
+@ta
+public class Customer {
+
+}
